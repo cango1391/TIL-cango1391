@@ -14,6 +14,8 @@
 <details>
   <summary style="font-size: 16px;"><strong id="n8n">n8n (전체 보기)</strong></summary>
 
+- [2026-04-24-GCP-e2-micro-무료-인스턴스-설정](n8n/2026-04-24-GCP-e2-micro-무료-인스턴스-설정.md)
+
 - [2026-04-24-n8n-GitHub-워크플로우-자격증명-배포-해결](n8n/2026-04-24-n8n-GitHub-워크플로우-자격증명-배포-해결.md)
 
 - [2026-04-24-GitHub-자동화-워크플로우-웹훅-배포-문제-해결](n8n/2026-04-24-GitHub-자동화-워크플로우-웹훅-배포-문제-해결.md)
